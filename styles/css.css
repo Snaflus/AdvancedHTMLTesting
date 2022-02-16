@@ -1,0 +1,41 @@
+ul{
+    background-color: darkgray;
+    padding: 10px;
+}
+
+li{
+    display: inline;
+    font-size: 2em;
+    margin-left: 3%;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+
+header{
+    background-color: lightgrey;
+    color: rgb(37, 33, 33);
+    text-align: center;
+    padding: 1em;
+}
+
+.quote{
+    font-style: italic;
+    opacity: .8;
+}
+
+aside{
+    background-color: rgb(162, 167, 154);
+    padding: 1em;
+    font-size: 2em;
+    font-style: italic;
+    color: white;
+}
+
+footer{
+    background-color: hotpink;
+    color: white;
+    list-style-type: none;
+}
